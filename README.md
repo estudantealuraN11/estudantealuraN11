@@ -1,9 +1,14 @@
-## Hi there 👋
+### Boas vindas ao meu perfil🎧
 
-<!--
-**estudantealuraN11/estudantealuraN11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O meu nome é **Nicolli**
 
-Here are some ideas to get you started:
+Estou desenvolvendo SCRATCH e JAVA SCRIPT
+
+![](https://media1.tenor.com/m/kB85sYBhI6oAAAAC/mocking-spongebob-mocking.gif)
+
+Meu **curriculo profissional**
+
+https://drive.google.com/drive/home?hl=pt-BR
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
